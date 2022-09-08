@@ -1,0 +1,332 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+ /* Header Menu Hide Media Css */
+
+
+    .bannner-right {
+ 
+         display: none;
+    }
+
+    .banner-left {
+    display: none;
+    }
+    .woman-img {
+        display: none;
+    }
+    .floating-img {
+    
+        display: none;
+    }
+    .banner-text-area h1 {
+        font-size: 34px;
+    }
+    .sample-img {
+        display: none;
+    }
+    .home_sample-title p {
+        padding: 0 35px;
+    }
+    .home_sample-section {
+       
+        padding: 46px 0;
+        
+    }
+    .single-sample-box {
+       
+        margin-bottom: 11px;
+        margin-top: 12px;
+        
+    }
+    .p-bg {
+       
+        display: none;
+    }
+    .chef {
+        position: relative;
+        width: 100%;
+        margin-left: 0;
+    }
+    .purchase-area {
+        padding: 5px 0;
+        
+    }
+    .plugin-area {
+        padding: 70px 0;
+        
+    }
+    .plugin-area-title {
+        padding: 0px 72px;
+       
+        margin-bottom: 50px;
+    }
+    .layout-area {
+        padding: 70px 0;
+       
+    }
+    .layout-title h3 {
+        font-size: 32px;
+       
+        padding: 0 0px;
+        
+    }
+    .chef-layout-area {
+        padding: 50px 0;
+    }
+    .chef-layout-title h3 {
+        position: relative;
+        top:0;
+        
+    }
+    .chef-layout-title img {
+        position: relative;
+        left: 0;
+    }
+    .chef-layout-sample img {
+        width: 100%;
+    }
+    .feature-title h3 {
+        font-size: 31px;
+        
+        padding: 0 0px;
+       
+    }
+    .feature-area {
+        padding: 60px 0;
+       
+    }
+
+
+
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* Header Menu Hide Media Css */
+
+
+
+.bannner-right {
+ 
+    display: none;
+}
+
+.banner-left {
+display: none;
+}
+.woman-img {
+   display: none;
+}
+.floating-img {
+
+   display: none;
+}
+.banner-text-area h1 {
+   font-size: 34px;
+}
+.sample-img {
+   display: none;
+}
+.home_sample-title p {
+   padding: 0 35px;
+}
+.home_sample-section {
+  
+   padding: 46px 0;
+   
+}
+.single-sample-box {
+  
+   margin-bottom: 11px;
+   margin-top: 12px;
+   
+}
+.p-bg {
+  
+   display: none;
+}
+.chef {
+   position: relative;
+   width: 100%;
+   margin-left: 0;
+}
+.purchase-area {
+   padding: 5px 0;
+   
+}
+.plugin-area {
+   padding: 70px 0;
+   
+}
+.plugin-area-title {
+    padding: 0px 56px;
+    margin-bottom: 50px;
+}
+.layout-area {
+   padding: 70px 0;
+  
+}
+.layout-title h3 {
+   font-size: 32px;
+  
+   padding: 0 0px;
+   
+}
+.chef-layout-area {
+   padding: 50px 0;
+}
+.chef-layout-title h3 {
+   position: relative;
+   top:0;
+   
+}
+.chef-layout-title img {
+   position: relative;
+   left: 0;
+}
+.chef-layout-sample img {
+   width: 100%;
+}
+.feature-title h3 {
+   font-size: 31px;
+   
+   padding: 0 0px;
+  
+}
+.feature-area {
+   padding: 60px 0;
+  
+}
+
+.single-plugin-box {
+    margin-left: 46px;
+    margin-bottom: 40px;
+}
+.p-bg {
+   
+    display: none;
+}
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* Header Menu Hide Media Css */
+
+    
+
+.bannner-right {
+ 
+    display: none;
+}
+
+.banner-left {
+display: none;
+}
+.woman-img {
+   display: none;
+}
+.floating-img {
+
+   display: none;
+}
+.sample-img {
+    
+    display: none;
+}
+.home_sample-title p {
+    padding: 0px 134px;
+}
+
+
+
+.p-bg {
+   
+    display: none;
+}
+.purchase-area {
+    padding: 0 0;
+    
+}
+.chef {
+    position: relative;
+    width: 100%;
+    margin-left: 0;
+}
+
+.plugin-area {
+    padding: 70px 0;
+    
+}
+.plugin-area-title {
+    padding: 2px 100px;
+  
+}
+.single-plugin-box {
+    margin-bottom: 16px;
+}
+
+
+.layout-title h3 {
+    
+    padding: 0 40px;
+    
+}
+.chef-layout-area {
+    padding: 0 0;
+}
+.chef-layout-title h3 {
+    position: relative;
+    top: 0; 
+    font-size: 36px;
+}
+.chef-layout-title img {
+    position: relative;
+    top: 0;
+    left: 1px;
+}
+
+.chef-layout-sample img {
+    width: 100%;
+ }
+
+ .feature-title h3 {
+    font-size: 36px;
+    color: #FFF;
+    padding: 0px 100px;
+   
+}
+
+
+
+
+
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    
+    
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/* ===========Main Header Media Css Start */
+
+
+
+/* ===========Main Header Media Css end */
+
+}
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+/* ===========Main Header Media Css Start */
+
+/* ===========Main Header Media Css end */
+
+ }
